@@ -8,13 +8,13 @@
 
 - İndirme -
   ```
-  git clone https://github.com/muhsinvoid/Brute-Force
+  git clone https://github.com/muhsinvoid/Spam-Ve-Patlatma-Botu
   ```
 
 - Başlatma
   ```
-  $ cd Brute-Force
-  $ python brute_force.py
+  $ cd Spam-Ve-Patlatma-Botu
+  $ python main.py
   ```
 
 ##
@@ -28,25 +28,16 @@
 - Başlatma
   ```
   $ cd ( dosya_yolu )
-  $ python brute_force.py
+  $ python main.py
   ```
 ### Note : 
 
 ##
 
-Python Kodundaki TARGET_USERNAME = "hedef_kullanıcı_adı" Kısmına Hedefinizin Kullanıcı Adını Yazın
-TARGET_URL = "https://www.instagram.com/accounts/login" Hedef Sitenin Login Sayfasının Linkini Koyun
-
-##
-
-try:
-u_elem = driver.find_element(By.NAME, "username")
-except:
-try:
-u_elem = driver.find_element(By.NAME, "email")
-except: ------------------------------------------------- ( Bu Kısıma Hedef Sitenizdeki Login Ve Pass Kutularının "name" değeri neyse onları yazın user , username , pass , password gibi )
+Zaten Kodu Çalıştırdığınız Zaman 3 Seçenek Gelicek Resimmi , Yazımı , Yoksa Resim Yazı Karışıkmı İstediğiniz Modu Seçiceksiniz Eğer Resim Olucaksa Saldırıda Öncesinden Spamklatmak İstediğiniz Resmi Bilgisayarınıza İndirip Kopyalamanız Gerekiyor Yoksa Göndermez Resmi Kopyaladıktan Sonra Seçeneklerden Birisini Seçip Saldırı Yapmak İstediğiniz Mesaj Yerini Örnek Whatsapp DM Açıyorsunuz Ve Bekliyorsunuz Bot Kendisi Göndericektir Zaten Durdurmak İçin Terminalde CTRL+C Yapmanız Yeterli
 
 ##
 
 <!-- // -->
+
 
